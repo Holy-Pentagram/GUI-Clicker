@@ -21,7 +21,7 @@ A simple GUI clicker app built with Python and PyQt5. It includes a background i
 
 ```bash
 git clone https://github.com/Holy-Pentagram/GUI-Clicker
-cd GUI-Clicker)
+cd GUI-Clicker
 ```
 ### 2. Install requirements
 
